@@ -30,7 +30,7 @@ No special installation is required for this project. Simply download the projec
 This project uses the [Quotable API](https://github.com/lukePeavey/quotable) to fetch random quotes. The API provides a variety of endpoints for accessing quotes.
 
 ## Live Demo 🌐
-Live Demo : 
+Live Demo : [Quote Generator](https://quote-generator-gamma-one.vercel.app/)
 
 ## Contributing 🎯
 Feel free to use and customize the project! If you have any questions or feedback, you can reach me at nisagokdemir@gmail.com. Enjoy!
